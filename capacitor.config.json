@@ -1,0 +1,6 @@
+{
+  "appId": "com.agc.attendance",
+  "appName": "Self Attendance App",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
